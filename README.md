@@ -1,2 +1,2 @@
-# mianaliusman786.github.io
-A repository of LawyersKonnect
+# LawyersKonnect
+## Initiation of LawyersKonnect Landing Page
